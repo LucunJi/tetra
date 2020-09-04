@@ -214,7 +214,7 @@
   "item.tetra.pristine_lapis": "原始青金石",
   "tetra.shatter_lapis_action.label": "打碎",
 
-  "item.tetra.pristine_gem.description": "在用于改进物品时产生更多增益。可以在工作台上破碎，可能会产出普通的品质的宝石\n\n§掉落物受时运附魔影响",
+  "item.tetra.pristine_gem.description": "在用于改进物品时产生更多增益。可以在工作台上破碎，可能会产出普通的品质的宝石\n\n§8掉落物受时运附魔影响",
 
   "item.tetra.magmatic_cell": "热力单元",
   "item.tetra.magmatic_cell.charge": "充能：%s",
@@ -2135,22 +2135,22 @@
   "tetra.variant.belt/rope": "绳子",
   "tetra.variant.belt/rope.name": "绳子",
   "tetra.variant.belt/rope.item_name": "绳子",
-  "tetra.variant.belt/rope.description": "一个用绳子做成的非常简易的腰带。可以承受非常有限的附件数量。",
+  "tetra.variant.belt/rope.description": "一条用绳子做成的非常简易的腰带。可以承受非常有限的附件数量。",
 
   "tetra.variant.belt/sash": "羊毛腰绳",
   "tetra.variant.belt/sash.name": "腰带",
-  "tetra.variant.belt/sash.description": "一个可以装载少量附件的羊毛腰绳。",
+  "tetra.variant.belt/sash.description": "一条可以装载少量附件的羊毛腰绳。",
 
   "tetra.variant.belt/leather": "皮革腰绳",
   "tetra.variant.belt/leather.name": "腰绳",
-  "tetra.variant.belt/leather.description": "一个可以绕在腰间的坚固腰绳。可以装载相当数量的附件。",
+  "tetra.variant.belt/leather.description": "一条可以绕在腰间的坚固腰绳。可以装载相当数量的附件。",
 
   "tetra.variant.belt/buckled": "皮带",
-  "tetra.variant.belt/buckled.description": "一个坚固的皮带，用一个扣子扣住。可以装载相当数量的附件。",
+  "tetra.variant.belt/buckled.description": "一条坚固的皮带，用一个扣子扣住。可以装载相当数量的附件。",
 
   "tetra.variant.belt/inlaid": "镶饰潜影贝腰带",
   "tetra.variant.belt/inlaid.prefix": "镶饰",
-  "tetra.variant.belt/inlaid.description": "一个坚固的皮带，镶嵌了潜影贝壳。可以装载非常多数量的附件。",
+  "tetra.variant.belt/inlaid.description": "一条坚固的皮带，镶嵌了潜影贝壳。可以装载非常多数量的附件。",
 
 
   "tetra/schema/toolbelt/strap/strap_1.name": "皮带圈",
@@ -2167,10 +2167,10 @@
   "tetra/schema/toolbelt/strap/strap_4.slot1": "皮带材质",
 
   "tetra.variant.strap1/leather": "皮带圈",
-  "tetra.variant.strap1/leather.description": "一个皮带圈可以被用来在皮带上挂一个物品，允许快速取用常用的工具或武器。",
+  "tetra.variant.strap1/leather.description": "单个皮带圈可以被用来在皮带上挂一个物品，允许快速取用常用的工具或武器。",
 
   "tetra.variant.strap1/iron": "铁圈",
-  "tetra.variant.strap1/iron.description": "一个铁圈可以被用来在皮带上挂一个物品，允许快速取用常用的工具或武器。",
+  "tetra.variant.strap1/iron.description": "单个铁圈可以被用来在皮带上挂一个物品，允许快速取用常用的工具或武器。",
 
   "tetra.variant.strap2/leather": "双重皮带圈",
   "tetra.variant.strap2/leather.description": "两个皮带圈可以被用来在皮带上挂一些物品，允许快速取用常用的工具或武器。",
@@ -2284,7 +2284,7 @@
 
   "tetra.module.bow/straight_stave.item_name": "弓",
   "tetra.module.bow/straight_stave.name": "直拉弓弓材",
-  "tetra.module.bow/straight_stave.description": "一个直拉弓弓材。",
+  "tetra.module.bow/straight_stave.description": "一根直拉弓弓材。",
 
   "tetra.variant.straight_stave/stick": "简易直拉弓弓材",
   "tetra.variant.straight_stave/oak": "橡木直拉弓弓材",
@@ -2312,7 +2312,7 @@
 
   "tetra.module.bow/long_stave.item_name": "长弓",
   "tetra.module.bow/long_stave.name": "长弓弓材",
-  "tetra.module.bow/long_stave.description": "一个长弓弓材。长弓一般有着更慢的拉弓速度，但比其它弓造成更多的伤害。",
+  "tetra.module.bow/long_stave.description": "一根长弓弓材。长弓一般有着更慢的拉弓速度，但比其它弓造成更多的伤害。",
 
   "tetra.variant.long_stave/stick": "简易长弓弓材",
   "tetra.variant.long_stave/oak": "橡木长弓弓材",
@@ -2340,7 +2340,7 @@
 
   "tetra.module.bow/recurve_stave.item_name": "反曲弓",
   "tetra.module.bow/recurve_stave.name": "反曲弓弓材",
-  "tetra.module.bow/recurve_stave.description": "一个反曲弓弓材。反曲弓一般有着比其它弓更快的拉弓速度。",
+  "tetra.module.bow/recurve_stave.description": "一根反曲弓弓材。反曲弓一般有着比其它弓更快的拉弓速度。",
 
   "tetra.variant.recurve_stave/stick": "简易反曲弓弓材",
   "tetra.variant.recurve_stave/oak": "橡木反曲弓弓材",
